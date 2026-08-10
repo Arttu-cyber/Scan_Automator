@@ -30,7 +30,7 @@ Scan Automator uses Nmap to perform the actual network scans.
 Download the ZIP from Github or clone the following repository:
 
 ```bash
-git clone https://github.com/Arttu-cyber/scan_automator
+git clone https://github.com/Arttu-cyber/Scan_Automator
 cd scan_automator
 ```
 
