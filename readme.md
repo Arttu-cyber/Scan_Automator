@@ -31,7 +31,7 @@ Download the ZIP from Github or clone the following repository:
 
 ```bash
 git clone https://github.com/Arttu-cyber/Scan_Automator
-cd scan_automator
+cd Scan_Automator
 ```
 
 ## Usage
